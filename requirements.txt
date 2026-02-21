@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+plotly
+wordcloud
+Pillow
+regex
+emoji
+demoji
